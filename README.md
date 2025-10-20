@@ -30,7 +30,7 @@ This repository will continuously evolve as I learn and grow. It is a mix of str
 
 **Mohammed Abdul Hafeez Baig**  
 - Website: [www.hafeezbaig.in](https://www.hafeezbaig.in)  
-- Blog: [blogs.hafeezbaig.in](https://blogs.hafeezbaig.in)  
+- Blog: [hafeezbaig.in/blogs](https://hafeezbaig.in/blogs)  
 - GitHub: [@HafeezBaig](https://github.com/HafeezBaig)  
 - Connect: [More Socials](https://connect.hafeezbaig.in)  
 
